@@ -1,4 +1,4 @@
-# Sistema de crawler que retorna os salários míminos
+# Sistema que retorna os salários míminos
 
 Sistema retorna um array com os valores do salário mínimo a parte da url: http://www.guiatrabalhista.com.br/guia/salario_minimo.htm
 
